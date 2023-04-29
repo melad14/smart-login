@@ -1,0 +1,19 @@
+@media screen and (max-width:575px){
+    .smart-app{
+        width: 95% !important;
+    }
+    .login{
+        width: 90%;
+       
+    }
+}
+@media screen and (min-width: 576px) and (max-width:767){
+
+}
+@media (min-width: 768px) and (max-width:991px ) {
+
+}
+
+@media (min-width: 992px) and ( max-width: 1199px) { 
+
+}
